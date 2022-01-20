@@ -35,4 +35,4 @@
 
 ## New Section
 
-* [English](sugar/README.md)
+* [English](new-section/english.md)
