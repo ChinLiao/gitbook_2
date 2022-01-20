@@ -36,4 +36,4 @@
 ## New Section
 
 * [English](new-section/english.md)
-* [Japanese](new-section/japanese.md)
+* [Japanese](langs/japanese.md)
