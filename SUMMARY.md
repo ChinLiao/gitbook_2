@@ -33,4 +33,6 @@
 * [Vietnamese](langs/vietnamese.md)
 * [Russian](langs/russian.md)
 
+## New Section
 
+* [English](sugar/README.md)
