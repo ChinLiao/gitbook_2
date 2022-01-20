@@ -35,5 +35,5 @@
 
 ## New Section
 
-* [English](sugar/README.md)
-* [Japanese](jp)
+* [English](new-section/english.md)
+* [Japanese](new-section/japanese.md)
