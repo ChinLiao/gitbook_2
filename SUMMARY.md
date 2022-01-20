@@ -33,8 +33,4 @@
 * [Vietnamese](langs/vietnamese.md)
 * [Russian](langs/russian.md)
 
-## Languages
 
-* [Chinese](languages/chinese/README.md)
-  * [Page 1](languages/chinese/page-1.md)
-* [English](languages/english.md)
