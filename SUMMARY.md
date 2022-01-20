@@ -33,7 +33,3 @@
 * [Vietnamese](langs/vietnamese.md)
 * [Russian](langs/russian.md)
 
-## New Section
-
-* [English](new-section/english.md)
-* [Japanese](langs/japanese.md)
