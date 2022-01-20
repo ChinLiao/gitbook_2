@@ -35,6 +35,6 @@
 
 ## Languages
 
-* [Chinese](Vi/chinese/README.md)
+* [Chinese](languages/chinese/README.md)
   * [Page 1](languages/chinese/page-1.md)
-* [English](sugar/Readme.md)
+* [English](languages/english.md)
