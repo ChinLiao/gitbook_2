@@ -26,10 +26,3 @@
 
 * [What next?](next-steps/what-next.md)
 
-## LANGS
-
-* [English](langs/english/README.md)
-  * [English\_Subpage](langs/english/english\_subpage.md)
-* [Vietnamese](langs/vietnamese.md)
-* [Russian](langs/russian.md)
-
