@@ -35,3 +35,4 @@
 
 ## Languages
 
+*[Chinese](\Zh)
