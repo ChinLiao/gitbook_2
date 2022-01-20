@@ -14,19 +14,6 @@
 * [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
 * [Change requests](the-basics/change-requests.md)
 
-## Publishing
+## community
 
-* [Publishing your content](publishing/publishing-your-content.md)
-
-## Tips and tricks
-
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
-## Next steps
-
-* [What next?](next-steps/what-next.md)
-
-## block
-
-* [first Page](block/first-page/first-page.md)
-* [second page](block/second-page/second-page.md)
+* [korean-abc](community/korean/korean.md)
